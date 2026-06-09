@@ -6,7 +6,4 @@
 - 👯 I’m looking to collaborate on AI and ML...
 
 
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sroshan106&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sroshan106)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sroshan106&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
