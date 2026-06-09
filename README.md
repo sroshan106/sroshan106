@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on AI and ML...
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sroshan106&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sroshan106)](https://github.com/ryo-ma/github-profile-trophy)
